@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/comments-app/static/css/main.d8e5219e.chunk.css",
+    "main.js": "/comments-app/static/js/main.f883ecc5.chunk.js",
+    "main.js.map": "/comments-app/static/js/main.f883ecc5.chunk.js.map",
+    "runtime-main.js": "/comments-app/static/js/runtime-main.741da680.js",
+    "runtime-main.js.map": "/comments-app/static/js/runtime-main.741da680.js.map",
+    "static/css/2.4be38407.chunk.css": "/comments-app/static/css/2.4be38407.chunk.css",
+    "static/js/2.1a34cc3f.chunk.js": "/comments-app/static/js/2.1a34cc3f.chunk.js",
+    "static/js/2.1a34cc3f.chunk.js.map": "/comments-app/static/js/2.1a34cc3f.chunk.js.map",
+    "index.html": "/comments-app/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/comments-app/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.d8e5219e.chunk.css.map": "/comments-app/static/css/main.d8e5219e.chunk.css.map",
+    "static/js/2.1a34cc3f.chunk.js.LICENSE.txt": "/comments-app/static/js/2.1a34cc3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.741da680.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.1a34cc3f.chunk.js",
+    "static/css/main.d8e5219e.chunk.css",
+    "static/js/main.f883ecc5.chunk.js"
+  ]
+}
